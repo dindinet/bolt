@@ -3,7 +3,11 @@
 # require username, password and perhaps a hostname.
 # If you're trying out Bolt, just keep it set to SQLite for now.
 database:
-  driver: sqlite
+  driver: mysql
+  username: adminVYD1Y8y
+  password: 5KgbbXbphErn
+  hostname: 127.8.29.1
+  port: 3306
   databasename: bolt
 
 # The name of the website
